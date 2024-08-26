@@ -22,7 +22,7 @@ export default function App() {
         <Packages />
         <About />
         <Opinions />
-        <Contact />
+        {/* <Contact /> */}
       </main>
       
       <Footer />
